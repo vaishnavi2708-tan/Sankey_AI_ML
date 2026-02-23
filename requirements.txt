@@ -1,0 +1,15 @@
+python-dotenv
+numpy
+tqdm
+pdfplumber
+pdfminer.six
+sentence-transformers
+scikit-learn
+torch
+chromadb
+langchain
+langchain-core
+ollama
+jupyter
+ipykernel
+ipywidgets
