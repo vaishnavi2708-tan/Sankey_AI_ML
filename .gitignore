@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# ML models only (keep data & results)
+embeddings/
+models/
+*.pt
+*.pth
+*.pkl
+*.bin
+*.h5
+
+# Logs
+logs/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
